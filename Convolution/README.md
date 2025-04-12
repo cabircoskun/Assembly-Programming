@@ -5,8 +5,6 @@ The implementation uses **C language** in combination with **Assembly** for low-
 
 ## 📌 Project Context
 
-Course: **BLM3061 - Microprocessor Systems and Assembly Language Lab**
-
 The task is to read matrices and kernels, flatten them into 1D arrays, and apply 2D convolution using pointer arithmetic in Assembly.
  The logic is driven from a C/C++ environment that integrates the Assembly routine.
 
